@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYMediaPicker_Example' do
+  pod 'LYMediaPicker', :path => '../'
+
+  target 'LYMediaPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
