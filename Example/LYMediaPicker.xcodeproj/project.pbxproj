@@ -37,9 +37,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		39E07609800B9C5E2F1F5714 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		39E07609800B9C5E2F1F5714 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		56F0238FB0D62B003F35F6E0 /* Pods-LYMediaPicker_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYMediaPicker_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LYMediaPicker_Tests/Pods-LYMediaPicker_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		5F13E2C7AED18BA10ADF3218 /* LYMediaPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LYMediaPicker.podspec; path = ../LYMediaPicker.podspec; sourceTree = "<group>"; };
+		5F13E2C7AED18BA10ADF3218 /* LYMediaPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LYMediaPicker.podspec; path = ../LYMediaPicker.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* LYMediaPicker_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LYMediaPicker_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,7 +65,7 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B2E4FC98AFE861B7A2AE0237 /* Pods-LYMediaPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LYMediaPicker_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LYMediaPicker_Tests/Pods-LYMediaPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B3DC22CBA38EBF88C61BD2D4 /* Pods_LYMediaPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LYMediaPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		CB594933B4B9CA421F51DC19 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		CB594933B4B9CA421F51DC19 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F7DC019001D033498FC0092B /* Pods_LYMediaPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LYMediaPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

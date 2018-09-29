@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Mega/LYMediaPicker'
+  s.homepage         = 'https://github.com/lyp944/LYMediaPicker'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Mega' => 'yunpeng.li@sdbean.com' }
-  s.source           = { :git => 'https://github.com/Mega/LYMediaPicker.git', :tag => s.version.to_s }
+  s.author           = { 'Liyunpeng' => 'lypworkon@sina.com' }
+  s.source           = { :git => 'https://github.com/lyp944/LYMediaPicker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'LYMediaPicker' => ['LYMediaPicker/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+   s.public_header_files = 'Pod/Classes/**/*.h'
+   s.frameworks = 'UIKit', 'Foundation','MobileCoreServices','Photos','AVFoundation'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
